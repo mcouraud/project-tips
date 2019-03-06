@@ -43,7 +43,7 @@ Puis ajouter la taille souhaitée à la div.
 
 ### Stockez vos couleurs dans des variables css dès le départ
 
-```css
+```scss
 /* app/assets/stylesheets/config/_colors.scss */
 
 $red:  #E0442C;
