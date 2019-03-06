@@ -52,3 +52,15 @@ $gray: #3A4247;
 $light-gray: #D3CFD5;
 $white: #F9F8F8;
 ```
+Ceci vous permettra de les utiliser dans tous les fichiers css de votre projet sans avoir à récuperer, toutes les 5 minutes, le code couleur dont vous avez besoin.
+```css
+/* app/assets/stylesheets/components/_buttons.scss */
+
+.btn-green {
+  text-align: center;
+  color: $white !important;
+  background-color: $green;
+  padding : 8px;
+  border-radius: 8px;
+}
+```
