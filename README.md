@@ -31,7 +31,7 @@ Il faut ajouter une div (id="section") autour de votre contenu (yield) et vérif
   <%= render 'shared/footer' %>
  </body>
 ```
-
+Puis ajouter la taille souhaiter à la div
 ```css
 /* app/assets/stylesheets/layouts/_section.scss */
 
