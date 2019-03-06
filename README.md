@@ -41,4 +41,14 @@ Puis ajouter la taille souhaitée à la div.
 }
 ```
 
-### 
+### Stockez vos couleurs dans des variables css dès le départ
+
+```css
+/* app/assets/stylesheets/config/_colors.scss */
+
+$red:  #E0442C;
+$green: #6AD8A5;
+$gray: #3A4247;
+$light-gray: #D3CFD5;
+$white: #F9F8F8;
+```
