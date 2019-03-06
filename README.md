@@ -4,7 +4,7 @@
 Voici un répertoire des atuces pour que les petits détails de votre projet rails ne soient plus un souci !
 
 
-### Faire disparaître la barre d'alerte au bout de 3 secondes automatiquement
+### Faire disparaître la barre d'alerte de manière automatique
 
 
 ```javascript
