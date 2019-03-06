@@ -1,10 +1,10 @@
-# project-tips
+# Project tips
 
 
 Voici un répertoire des atuces pour que les petits détails de votre projet ne soient plus un souci !
 
 
-**Faire disparaître la barre d'alerte au bout de 3 secondes automatiquement**
+**1. Faire disparaître la barre d'alerte au bout de 3 secondes automatiquement**
 
 
 ```javascript
@@ -15,7 +15,7 @@ $(".alert-success" ).delay(2000).fadeOut(1000);
 $(".alert-danger" ).delay(2000).fadeOut(1000);
 ```
 
-**Faire en sorte que votre footer reste en bas de votre page peu importe la longueur du contenu**
+**2. Faire en sorte que votre footer reste en bas de votre page peu importe la longueur du contenu**
 
 
 ```html
