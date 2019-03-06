@@ -35,7 +35,7 @@ $(".alert-danger" ).delay(2000).fadeOut(1000);
 /* app/assets/stylesheets/ */
 
 .section {
-  margin-top: 50px; /*Hauteur de la navbar*/
-  min-height: calc(100vh - 100px); /*Hauteur totale - (Hauteur navbar + Hauteur footer)*/
+  margin-top: 50px; /* Hauteur de la navbar */
+  min-height: calc(100vh - 100px); /* Hauteur totale - (Hauteur navbar + Hauteur footer) */
 }
 ```
