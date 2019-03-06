@@ -17,7 +17,7 @@ $(".alert-danger" ).delay(2000).fadeOut(1000);
 
 ### Faire en sorte que votre footer reste en bas de votre page peu importe la longueur du contenu
 
-Il faut ajouter une div (id="section") autour de votre contenu
+Il faut ajouter une div (id="section") autour de votre contenu (yield) et vérifer que navbar / alerts / footer restent à l'exterieur de cette nouvelle div. 
 
 ```html
 <!-- app/views/layouts/application.html.erb -->
